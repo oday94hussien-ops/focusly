@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Focusly monogram icon">
+  <title>Focusly</title>
+  <rect x="0" y="0" width="240" height="240" rx="36" ry="36" fill="#4F46E5"/>
+  <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Poppins, system-ui, sans-serif" font-weight="700" font-size="110" fill="#F9FAFB">F</text>
+  <circle cx="178" cy="58" r="10" fill="#F59E0B"/>
+</svg>
