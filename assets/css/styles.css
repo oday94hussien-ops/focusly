@@ -94,6 +94,7 @@
     }
 }
 
+::selection { background: var(--primary-color); color: var(--custom-color-4) }
 
 /* Base */
 *,
